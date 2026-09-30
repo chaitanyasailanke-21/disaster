@@ -1,0 +1,6 @@
+{
+  "name": "Unknown SIX",
+  "description": "Unknown SIX: AEGIS-X Adaptive Cooperative Edge Intelligence & Safety Grid. Interactive 3D disaster simulation featuring real-time smoke detection, sensor corroboration, and autonomous LoRa mesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
